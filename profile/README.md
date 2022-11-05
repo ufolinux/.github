@@ -9,3 +9,5 @@
 * [TELEGRAM: Support/Chat](https://t.me/ufolinux)
 * [All Packages](https://git.it-kuny.ch/ufolinux/repository/x86_64/)
 * [Pkgbuild files](https://github.com/ufolinux/Ufo-PKGBUILD)
+* [Matrix](https://matrix.to/#/#ufolinux:matrix.org)
+* [Discord](https://discord.gg/y6zFg7DcjK)
