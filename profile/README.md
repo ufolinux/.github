@@ -11,3 +11,5 @@
 * [Pkgbuild files](https://github.com/ufolinux/Ufo-PKGBUILD)
 * [Matrix](https://matrix.to/#/#ufolinux:matrix.org)
 * [Discord](https://discord.gg/y6zFg7DcjK)
+
+![](https://komarev.com/ghpvc/?username=ufolinux&color=brightgreen)
